@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Gtstride/photo-search-app.git/static/css/main.34de6062.chunk.css",
-    "main.js": "/Gtstride/photo-search-app.git/static/js/main.7f370210.chunk.js",
-    "main.js.map": "/Gtstride/photo-search-app.git/static/js/main.7f370210.chunk.js.map",
-    "runtime~main.js": "/Gtstride/photo-search-app.git/static/js/runtime~main.5be591d2.js",
-    "runtime~main.js.map": "/Gtstride/photo-search-app.git/static/js/runtime~main.5be591d2.js.map",
-    "static/css/2.f65acde2.chunk.css": "/Gtstride/photo-search-app.git/static/css/2.f65acde2.chunk.css",
-    "static/js/2.0769edfc.chunk.js": "/Gtstride/photo-search-app.git/static/js/2.0769edfc.chunk.js",
-    "static/js/2.0769edfc.chunk.js.map": "/Gtstride/photo-search-app.git/static/js/2.0769edfc.chunk.js.map",
-    "index.html": "/Gtstride/photo-search-app.git/index.html",
-    "precache-manifest.184d5914156ac29353b63e8c0a18ef83.js": "/Gtstride/photo-search-app.git/precache-manifest.184d5914156ac29353b63e8c0a18ef83.js",
-    "service-worker.js": "/Gtstride/photo-search-app.git/service-worker.js",
-    "static/css/2.f65acde2.chunk.css.map": "/Gtstride/photo-search-app.git/static/css/2.f65acde2.chunk.css.map",
-    "static/css/main.34de6062.chunk.css.map": "/Gtstride/photo-search-app.git/static/css/main.34de6062.chunk.css.map"
+    "main.css": "/photo-search-app/static/css/main.34de6062.chunk.css",
+    "main.js": "/photo-search-app/static/js/main.572afb98.chunk.js",
+    "main.js.map": "/photo-search-app/static/js/main.572afb98.chunk.js.map",
+    "runtime~main.js": "/photo-search-app/static/js/runtime~main.97c5c403.js",
+    "runtime~main.js.map": "/photo-search-app/static/js/runtime~main.97c5c403.js.map",
+    "static/css/2.f65acde2.chunk.css": "/photo-search-app/static/css/2.f65acde2.chunk.css",
+    "static/js/2.0769edfc.chunk.js": "/photo-search-app/static/js/2.0769edfc.chunk.js",
+    "static/js/2.0769edfc.chunk.js.map": "/photo-search-app/static/js/2.0769edfc.chunk.js.map",
+    "index.html": "/photo-search-app/index.html",
+    "precache-manifest.0fe93e4964beb919088cec14f1e975b5.js": "/photo-search-app/precache-manifest.0fe93e4964beb919088cec14f1e975b5.js",
+    "service-worker.js": "/photo-search-app/service-worker.js",
+    "static/css/2.f65acde2.chunk.css.map": "/photo-search-app/static/css/2.f65acde2.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/photo-search-app/static/css/main.34de6062.chunk.css.map"
   }
 }
