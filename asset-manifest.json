@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/photo-search-app/static/css/main.34de6062.chunk.css",
-    "main.js": "/photo-search-app/static/js/main.572afb98.chunk.js",
-    "main.js.map": "/photo-search-app/static/js/main.572afb98.chunk.js.map",
-    "runtime~main.js": "/photo-search-app/static/js/runtime~main.97c5c403.js",
-    "runtime~main.js.map": "/photo-search-app/static/js/runtime~main.97c5c403.js.map",
-    "static/css/2.f65acde2.chunk.css": "/photo-search-app/static/css/2.f65acde2.chunk.css",
-    "static/js/2.0769edfc.chunk.js": "/photo-search-app/static/js/2.0769edfc.chunk.js",
-    "static/js/2.0769edfc.chunk.js.map": "/photo-search-app/static/js/2.0769edfc.chunk.js.map",
-    "index.html": "/photo-search-app/index.html",
-    "precache-manifest.0fe93e4964beb919088cec14f1e975b5.js": "/photo-search-app/precache-manifest.0fe93e4964beb919088cec14f1e975b5.js",
-    "service-worker.js": "/photo-search-app/service-worker.js",
-    "static/css/2.f65acde2.chunk.css.map": "/photo-search-app/static/css/2.f65acde2.chunk.css.map",
-    "static/css/main.34de6062.chunk.css.map": "/photo-search-app/static/css/main.34de6062.chunk.css.map"
+    "main.css": "/photo-search-app/photo-search-app/static/css/main.34de6062.chunk.css",
+    "main.js": "/photo-search-app/photo-search-app/static/js/main.572afb98.chunk.js",
+    "main.js.map": "/photo-search-app/photo-search-app/static/js/main.572afb98.chunk.js.map",
+    "runtime~main.js": "/photo-search-app/photo-search-app/static/js/runtime~main.72372265.js",
+    "runtime~main.js.map": "/photo-search-app/photo-search-app/static/js/runtime~main.72372265.js.map",
+    "static/css/2.f65acde2.chunk.css": "/photo-search-app/photo-search-app/static/css/2.f65acde2.chunk.css",
+    "static/js/2.0769edfc.chunk.js": "/photo-search-app/photo-search-app/static/js/2.0769edfc.chunk.js",
+    "static/js/2.0769edfc.chunk.js.map": "/photo-search-app/photo-search-app/static/js/2.0769edfc.chunk.js.map",
+    "index.html": "/photo-search-app/photo-search-app/index.html",
+    "precache-manifest.2722dd8d285f9194d8423291a3a15c7b.js": "/photo-search-app/photo-search-app/precache-manifest.2722dd8d285f9194d8423291a3a15c7b.js",
+    "service-worker.js": "/photo-search-app/photo-search-app/service-worker.js",
+    "static/css/2.f65acde2.chunk.css.map": "/photo-search-app/photo-search-app/static/css/2.f65acde2.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/photo-search-app/photo-search-app/static/css/main.34de6062.chunk.css.map"
   }
 }
