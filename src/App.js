@@ -19,7 +19,7 @@ class App extends React.Component {
   }
 // 
   handleSubmit(event) {
-    // console.log('The photo selected is: ' + this.state.sol_no + ' & ' + this.state.camera);
+    console.log('The photo selected is: ' + this.state.sol_no + ' & ' + this.state.camera);
     // get the input values here
     var query = this.state.sol_no;
 
